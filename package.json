@@ -1,12 +1,13 @@
 {
-  "name": "es6-spread-operator-practice-completed",
+  "name": "todolist",
   "version": "1.0.0",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "registry": "^0.3.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
